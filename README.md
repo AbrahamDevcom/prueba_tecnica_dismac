@@ -1,4 +1,4 @@
-# prueba_tecnica_seek
+# prueba_tecnica_dismac
 
 Este repositorio tiene el fin de entregar mi prueba tecnica
 
